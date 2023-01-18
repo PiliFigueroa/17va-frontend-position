@@ -1,0 +1,76 @@
+/*
+ - POSITION
+ absolute - top, bottom, left, right
+ relative
+ fixed
+ - Z-INDEX
+*/
+
+/* .whatsappBtn {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 20px;
+    position: relative;
+}
+
+.whatsappBtn i {
+    font-size: 2em;
+    color: green;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+} */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.navbar {
+    padding: 15px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+}
+
+.navbar .container-links .link {
+    color: #000;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.navbar .container-links .link:hover {
+    text-decoration: underline;
+}
+
+main {
+    position: relative;
+    top: 75px;
+} */
+
+/* .container {
+    position: relative;
+} */
+
+/* .caja {
+    width: 200px;
+    height: 200px;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+    position: absolute;
+    top: 100px;
+    right: 50%;
+    z-index: -1;
+} */
